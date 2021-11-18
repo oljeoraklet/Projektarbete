@@ -2,7 +2,7 @@
 // maybe the "count points" class should check do the isPointInside check...
 
 using System;
-namespace Test
+namespace Projektarbete
 {
     public class ShapeHandler
     {
