@@ -1,6 +1,6 @@
 // Class to represent all shapes except circles
 using System;
-namespace Test
+namespace Projektarbete
 {
     public class Polygon : IShapes
     {

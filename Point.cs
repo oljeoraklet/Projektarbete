@@ -1,6 +1,6 @@
 // Class that holds coordinates for points (both polygon vertices and pointPoints)
 using System;
-namespace Test
+namespace Projektarbete
 {
     public class Point
     {

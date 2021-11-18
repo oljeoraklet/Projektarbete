@@ -1,5 +1,5 @@
 ﻿using System;
-namespace Test
+namespace Projektarbete
 {
     class Program
     {
